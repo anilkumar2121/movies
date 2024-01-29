@@ -1,0 +1,28 @@
+.movielist{
+    display: flex;
+    height: 50vh;
+    width: 580px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movielist h1{
+    color: rgb(165, 132, 52);
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.movielist p{
+    color: rgba(236, 6, 175, 0.509);
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+   
+
+}
+
+.movielist img{
+    height: 250px;
+}
